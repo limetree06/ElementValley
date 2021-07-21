@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 52cda866bf7e5f24dae5aff2581b9160
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SamsungOneKoreanOTF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 40a1c16b4655a5649a04016e9d682fe1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
