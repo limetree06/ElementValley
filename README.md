@@ -28,7 +28,7 @@ ELEMENT VALLEY는 2인 플레이어 게임으로 2명의 플레이어사 서로 
 
 
 ##### Demo Viedo
-[elementvalley (1)](https://user-images.githubusercontent.com/38162871/211989730-199e0eba-e930-48b9-8619-d7831f9829b1.gif)
+[elementvalley (1)](https://www.youtube.com/watch?v=g7m7IC9Hb8Q)
 
 
 
