@@ -1,7 +1,7 @@
 # MadCamp3
 # 멀티플레이어 버전 모뉴먼트 밸리 게임
 
-<img width="390" alt="valley" src="https://user-images.githubusercontent.com/38162871/211986136-8942eda9-6676-4d63-849f-0dc765fd8b5d.png">
+<img width="200" alt="valley" src="https://user-images.githubusercontent.com/38162871/211986136-8942eda9-6676-4d63-849f-0dc765fd8b5d.png" >
 
 ---
 
@@ -19,10 +19,8 @@ ELEMENT VALLEY는 2인 플레이어 게임으로 2명의 플레이어사 서로 
 
 
 ##### level1
-
-![level1](https://user-images.githubusercontent.com/38162871/211986283-64bca3d1-12bf-484c-8d0d-d6b7d3899cc4.png)
+<img width="100" alt="valley" src="https://user-images.githubusercontent.com/38162871/211986283-64bca3d1-12bf-484c-8d0d-d6b7d3899cc4.png" >
 
 
 ##### level2
-
-![level2](https://user-images.githubusercontent.com/38162871/211986295-0f3c2cf0-b4e9-429a-8a68-cff73bbfe324.png)
+<img width="100" alt="valley" src="https://user-images.githubusercontent.com/38162871/211986295-0f3c2cf0-b4e9-429a-8a68-cff73bbfe324.png" >
